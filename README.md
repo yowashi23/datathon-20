@@ -1,4 +1,4 @@
-# datathon20
+# datathon-20
 Datathon Project 2020 - Henry Creamer, Yong Shin, Robert Walsh
 
 Link to Pitches Dataset:
